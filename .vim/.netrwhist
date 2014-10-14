@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/Adrien/rendu/Piscine_C_J08/ex_05'
+let g:netrw_dirhist_2='/home/Adrien/rendu/Piscine_C_J08/ex_04'
+let g:netrw_dirhist_3='/home/Adrien/rendu/Piscine_C_J07/ex_01'
