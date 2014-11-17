@@ -2,8 +2,7 @@
 ** $FILE for $FLDR in $PATH
 **
 ** Made by      $NAME
-** Login        $NICK
-** Email        $EMAIL
+** Login        $NICK <$EMAIL>
 **
 ** Started on   $DATE $NICK
 ** Update       $LAST
